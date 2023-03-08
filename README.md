@@ -40,6 +40,7 @@ Here are some ideas that users have suggested. If you have other suggestions, pl
 * How to use public databases (Ming?)
 * Applications to polymers and oligonucleotides
 * Ion mobility
+* Using Git and GitHub
 * Gasp, R!
   * There are a lot of great R resources for MS already, so maybe we could organize and link those here too.
 
