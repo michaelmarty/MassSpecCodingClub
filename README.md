@@ -3,6 +3,10 @@ The Mass Spec Coding Club (MSCC) is a community dedicated to education of comput
 
 As the community develops, we will continue to post more content, and we welcome contributions from anyone. 
 
+# Discord Server
+
+Want to chat with community members and join meetings, join us on the [Mass Spec Coding Club Discord Server](https://discord.gg/24GupxGn3d). It's easy to set up, and you can run it from a browser if you'd like. We will pick a time soon and start hosting meetings/office hours there. 
+
 # Learning Modules
 
 ## Module 0: Setting Up Python and Plotting A Spectrum
@@ -10,7 +14,7 @@ As the community develops, we will continue to post more content, and we welcome
 This series of lessons will cover how to set up Python from scratch and write a simple script to plot a mass spectrum. Skills and learning outcomes are outlined below each video
 
 * [Lesson 0.0: Setting up Python from Scratch](https://youtu.be/BLaoo1S3ImU)
-  * How to setup and run Python
+  * How to set up and run Python
   * Setting variables
   * Printing to the terminal
 * [Lesson 0.1: Loading Data Into Python](https://youtu.be/vpbdUQp8m0U)
@@ -19,7 +23,7 @@ This series of lessons will cover how to set up Python from scratch and write a 
   * Intro to array slicing
 * [Lesson 0.2: Plotting a Spectrum](https://youtu.be/88m4a9CEeBY)
   * Plotting a spectrum with MatPlotLib
-  * Normalizing the y axis
+  * Normalizing the y-axis
 * [Lesson 0.3: Too Fast, Go Back - Review and Background from Module 0](https://youtu.be/V6alRhace2A)
   * Fundamentals of how computers work
   * Basics of code concepts
