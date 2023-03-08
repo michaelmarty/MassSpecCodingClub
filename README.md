@@ -17,3 +17,7 @@ This series of lessons will cover how to set up Python from scratch and write a 
 The data files, Python code, and notes used in this module are available in the "Module 0" folder. 
 
 Check back for more videos, and reach out if you like these [mtmarty@arizona.edu](mailto:mtmarty@arizona.edu). 
+
+# Funding
+
+Funding is provided by the National Science Foundation: CHE-1845230. 
