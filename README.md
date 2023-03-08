@@ -17,7 +17,7 @@ This series of lessons will cover how to set up Python from scratch and write a 
   * Importing libraries
   * Reading from text files into NumPy arrays
   * Intro to array slicing
-  * [Lesson 0.2: Plotting a Spectrum](https://youtu.be/88m4a9CEeBY)
+* [Lesson 0.2: Plotting a Spectrum](https://youtu.be/88m4a9CEeBY)
   * Plotting a spectrum with MatPlotLib
   * Normalizing the y axis
 * [Lesson 0.3: Too Fast, Go Back - Review and Background from Module 0](https://youtu.be/V6alRhace2A)
@@ -28,6 +28,20 @@ This series of lessons will cover how to set up Python from scratch and write a 
 The data files, Python code, and notes used in this module are available in the "Module 0" folder. 
 
 Check back for more videos, and reach out if you like these [mtmarty@arizona.edu](mailto:mtmarty@arizona.edu). 
+
+# Ideas for Future Tutorials
+
+Here are some ideas that users have suggested. If you have other suggestions, please enter them in the ["What Projects Would You Like to See?"](https://github.com/michaelmarty/MassSpecCodingClub/discussions/3) discussion. If you would like to volunteer to make a module on one of these topics, please add your name here.
+
+* Plotting multiple spectra with for loops and string parsing (Michael Marty)
+* Reading vendor files
+* Writing to different output files
+* Exploring other Python MS packages
+* How to use public databases (Ming?)
+* Applications to polymers and oligonucleotides
+* Ion mobility
+* Gasp, R!
+  * There are a lot of great R resources for MS already, so maybe we could organize and link those here too.
 
 # Funding
 
