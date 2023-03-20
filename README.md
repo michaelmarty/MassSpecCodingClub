@@ -7,6 +7,8 @@ As the community develops, we will continue to post more content, and we welcome
 
 Want to chat with community members and join meetings, join us on the [Mass Spec Coding Club Discord Server](https://discord.gg/24GupxGn3d). It's easy to set up, and you can run it from a browser if you'd like. We will pick a time soon and start hosting meetings/office hours there. 
 
+In the meantime, feel free to post questions to the text channels there, and people can answer. 
+
 # Learning Modules
 
 ## Module 0: Setting Up Python and Plotting A Spectrum
