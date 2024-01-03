@@ -20,7 +20,12 @@ ribose = "C5H10O5"
 phos = "H3PO4"
 water = "H2O"
 
+#
 # I will help you out with a hint here
+# You may need to do <pip install molmass> to get the calc_formula_mass function working
+# Note, it is importing this from the file we wrote in Module 1.2.
+# If something isn't working, you can write these from scratch
+#
 
 from calc_masses_chem import calc_formula_mass
 

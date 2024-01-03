@@ -55,6 +55,8 @@ The goal of module 1 is to show how Python can be used to predict masses of vari
   * Writing For loops
   * If/Then statements and Boolean tests
   * Passing options to functions
+* Homework 1
+  * For those who want to test their skills and calculate some RNA masses, check out homework1.py in Module 1.
 
 Check back for more videos, and reach out if you like these [mtmarty@arizona.edu](mailto:mtmarty@arizona.edu). 
 
