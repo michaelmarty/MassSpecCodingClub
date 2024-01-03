@@ -30,8 +30,31 @@ This series of lessons will cover how to set up Python from scratch and write a 
   * Fundamentals of how computers work
   * Basics of code concepts
   * Discussion of variables, functions, and classes
+  * How to define functions
 
-The data files, Python code, and notes used in this module are available in the "Module 0" folder. 
+The data files, Python code, and notes used in this module are available in the "Module 0" folder.
+
+## Module 1: Calculating Masses
+
+The goal of module 1 is to show how Python can be used to predict masses of various molecules, starting with proteins.
+
+* [Lesson 1.0: Calculating Protein Masses](https://youtu.be/FFR1gg2cA6E)
+  * Using a Dictionary
+  * Creating a function
+  * Looping through protein sequence to calculate the protein mass
+* [Lesson 1.1: Improving Our Protein Mass Calculator](https://youtu.be/lxTrA_EPeNg)
+  * String manipulation
+  * Passing variables through functions
+  * If/then statements
+  * Monoisotopic mass calculation for protein
+* [Lesson 1.2: Calculating Masses from Glycans, SMILES, and Formulas](https://youtu.be/XSgA7SODmSg)
+  * Using Glypy to calculate masses from GlycoCT strings
+  * Using molmass to calculate masses from formulas
+  * Using RDKit to calculate masses from SMILES strings
+* [Lesson 1.3: Too Fast, Go Back - For Loops, If/Then, and Function Options](https://youtu.be/xg1QxAzznkg)
+  * Writing For loops
+  * If/Then statements and Boolean tests
+  * Passing options to functions
 
 Check back for more videos, and reach out if you like these [mtmarty@arizona.edu](mailto:mtmarty@arizona.edu). 
 
