@@ -66,4 +66,4 @@ def calc_smiles_mass(smiles, monoisotopic=False):
     return mass
 
 
-print(calc_smiles_mass(smiles, monoisotopic=False))
+# print(calc_smiles_mass(smiles, monoisotopic=False))
